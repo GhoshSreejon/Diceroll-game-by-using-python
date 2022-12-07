@@ -1,5 +1,5 @@
 #diceroll game
-
+#forked by sreejon ghosh
 import random
 score=0
 def rolldice(x):
